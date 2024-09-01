@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atul812
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python programming language.
-- 💞️ I’m looking to collaborate on python.
+- 🌱 I’m currently learning Java programming language and Linux.
+- 💞️ I’m looking to collaborate on Java, Linux.
 
 <!---
 atul812/atul812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
