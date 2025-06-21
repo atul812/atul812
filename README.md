@@ -1,6 +1,3 @@
-![atul-ezgif com-resize](https://github.com/user-attachments/assets/7429b65d-5d47-4aac-b833-eed3b983549b)
-
-
 <h3 align="center"> Atul Kumar </h3>
 
 <p align="center">
