@@ -3,7 +3,7 @@
 <p align="center">
   🧠 <strong>CS Undergrad</strong> @ RNS Institute of Technology <br>
   ⚡ <strong>Curiosity</strong> — AI, OSS, and Hackathons <br>
-  💻 <strong>Currently diving into</strong>: Professional Frontend Developer Certification · Machine Learning <br>
+  💻 <strong>Currently diving into</strong>: Machine Learning <br>
   📫 <strong>Let's connect</strong>: <a href="mailto:atul27kr@gmail.com">atul27kr@gmail.com</a>
 </p>
 
